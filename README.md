@@ -1,7 +1,7 @@
-# HNG Stage 1 — E-Commerce Product Data Cleaning & Title Optimisation
+# E-Commerce Product Data Cleaning & Title Optimisation
 Cleaned 3,847 raw product records from a multi-category e-commerce dataset, removed 306 duplicate entries, resolved data quality issues across six dimensions, and engineered a `short_title` feature reducing average title length by 55% for improved SEO and readability — all in Excel.
 
-**[Cleaned Dataset]()** · **[Technical Report]()**
+**[Cleaned Dataset](https://github.com/favourogunbiyi/E-Commerce-Product-Data-Cleaning-Title-Optimization/blob/main/productdata%20(1).xlsx)** · **[Technical Report](https://github.com/favourogunbiyi/E-Commerce-Product-Data-Cleaning-Title-Optimization/blob/main/TECHNICAL%20REPORT.pdf)**
 ## The Problem
 The raw dataset had 3,847 product listings and no usable title column. Titles averaged 86 characters — the longest ran to 403. They were stuffed with keywords, model codes, colour variants, and filler phrases like "set of," "includes," and "features." Useless for SEO. Impossible to scan.
 
@@ -64,8 +64,8 @@ What stayed: brand name, product category, one key differentiator (colour, size,
 ## Files in This Repo
 | File | What's inside |
 |---|---|
-| [productdata] | Cleaned dataset with `short_title` feature — Excel formulas retained |
-| [Technical_Report_Product_Data_Cleaning] | Full technical report — methodology, cleaning steps, examples, and before/after statistics |
+| [productdata](https://github.com/favourogunbiyi/E-Commerce-Product-Data-Cleaning-Title-Optimization/blob/main/productdata%20(1).xlsx) | Cleaned dataset with `short_title` feature — Excel formulas retained |
+| [Technical_Report_Product_Data_Cleaning](https://github.com/favourogunbiyi/E-Commerce-Product-Data-Cleaning-Title-Optimization/blob/main/Technical_Report_Product_Data_Cleaning.docx) | Full technical report — methodology, cleaning steps, examples, and before/after statistics |
 
 ## What This Enables
 A clean version of this dataset, with short titles, supports:

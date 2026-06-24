@@ -76,4 +76,4 @@ A clean version of this dataset, with short titles, supports:
 
 This was built as an HNG14 Internship Stage 1 task, April 2026. The constraint of working entirely in Excel — no Python, no SQL — forced a disciplined approach to what formulas alone can accomplish when the logic is sound.
 
-← [Back to main portfolio]
+← [Back to main portfolio](https://github.com/favourogunbiyi/data_analysis_portfolio)
